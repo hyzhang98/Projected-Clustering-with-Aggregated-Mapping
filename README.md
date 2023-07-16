@@ -11,11 +11,12 @@ The core motivation to **investigate how deep clustering with explicit aggregati
 
 The source code consists of two parts: 
 
-The code of linear case is implemented by MATLAB. The source file is Projected_Clustering_Adaptive_Aggregation.m. The meaning of various parameters can be found in the code comments. 
+- The code of linear case is implemented by MATLAB. The source file is *Projected_Clustering_Adaptive_Aggregation.m*. The meaning of various parameters can be found in the code comments. 
 
-The code of a simple deep version with GNN can be found in the folder "Simple Deep Extension".
+- The code of a simple deep extension with GNN can be found in the folder *Simple Deep Extension*.  
 
-
+ &nbsp;
+   
 
 If you have issues, please email:
 
@@ -36,7 +37,7 @@ numpy 1.16.5
 ## Citation
 
 ```
-@article{Pojected_Clustering,
+@article{PojectedClustering,
   author={Zhang, Hongyuan and Zhu, Yanan and Li, Xuelong},
   journal={IEEE Transactions on Image Processing}, 
   title={Towards Projected Clustering with Aggregated Mapping}, 
@@ -44,7 +45,7 @@ numpy 1.16.5
   volume={},
   number={},
   pages={1-1},
-  doi={DOI: 10.1109/TIP.2023.3274989}
+  doi={10.1109/TIP.2023.3274989}
 }
 
 ```
