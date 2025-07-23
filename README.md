@@ -3,7 +3,7 @@
 
 This repository is our implementation of 
 
-[Hongyuan Zhang, Yanan Zhu, and Xuelong Li, "Towards Projected Clustering with Aggregated Mapping," *IEEE Transactions on Image Processing*, DOI: 10.1109/TIP.2023.3274989, 2023](https://ieeexplore.ieee.org/document/10179275).
+[Hongyuan Zhang, Yanan Zhu, and Xuelong Li, "Towards Projected Clustering with Aggregated Mapping," *IEEE Transactions on Image Processing*, vol. 32, pp. 4103-4113, 2023](https://ieeexplore.ieee.org/document/10179275).
 
 
 
@@ -42,9 +42,9 @@ numpy 1.16.5
   journal={IEEE Transactions on Image Processing}, 
   title={Towards Projected Clustering with Aggregated Mapping}, 
   year={2023},
-  volume={},
+  volume={32},
   number={},
-  pages={1-1},
+  pages={4103--4113},
   doi={10.1109/TIP.2023.3274989}
 }
 
